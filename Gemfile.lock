@@ -1,0 +1,22 @@
+GIT
+  remote: git://github.com/mirah/pindah.git
+  revision: 607bda4249b60695795e1f528d6bc1f46b226c55
+  specs:
+    pindah (0.1.3.dev)
+      mirah (>= 0.0.10.dev)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    bitescript (0.1.0)
+    mirah (0.1.0.pre-java)
+      bitescript (>= 0.0.8)
+    rake (10.0.3)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  mirah
+  pindah!
+  rake
