@@ -9,7 +9,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     bitescript (0.1.0)
-    mirah (0.1.0.pre-java)
+    mirah (0.0.12-java)
       bitescript (>= 0.0.8)
     rake (10.0.3)
 
@@ -17,6 +17,6 @@ PLATFORMS
   java
 
 DEPENDENCIES
-  mirah
+  mirah (= 0.0.12)
   pindah!
   rake
